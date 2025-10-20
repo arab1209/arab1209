@@ -3,7 +3,6 @@
 **끊임없이 배우고 성장하는 주니어 개발자입니다.**
 
 모바일 개발에 관심이 많으며, 클린 코드와 사용자 경험을 중시합니다.  
-매일 조금씩 성장하며, 기술로 세상에 기여하는 개발자가 되고자 합니다.
 
 ---
 
@@ -16,4 +15,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arab1209)
+
 ---
+
+💡 *"좋은 코드는 읽기 쉬운 코드다"*
