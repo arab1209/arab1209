@@ -18,7 +18,3 @@
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arab1209)
-
----
-
-💡 *"좋은 코드는 읽기 쉬운 코드다"*
