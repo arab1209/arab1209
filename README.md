@@ -1,6 +1,3 @@
-# 안녕하세요! 👋
-**현재 공부중인 주니어 개발자 입니다**
----
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
