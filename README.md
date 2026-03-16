@@ -8,7 +8,6 @@
 </p>
 
 🙋‍♂️ About Me
-
 🔭 Android Native 개발에 집중하고 있습니다
 🚀 Google Play 스토어 출시 경험이 있습니다
 📝 배운 것을 블로그에 꾸준히 기록합니다
