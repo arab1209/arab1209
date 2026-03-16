@@ -7,11 +7,11 @@
   <a href="https://github.com/arab1209"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-🙋‍♂️ About Me
-🔭 Android Native 개발에 집중하고 있습니다
-🚀 Google Play 스토어 출시 경험이 있습니다
-📝 배운 것을 블로그에 꾸준히 기록합니다
-🤝 혼자보다 함께 성장하는 것이 더 빠르다고 믿습니다
+<h2>🙋‍♂️ About Me</h2>
+<p>🔭 Android Native 개발에 집중하고 있습니다</p>
+<p>🚀 Google Play 스토어 출시 경험이 있습니다</p>
+<p>📝 배운 것을 <a href="https://arabbio.tistory.com">블로그</a>에 꾸준히 기록합니다</p>
+<p>🤝 혼자보다 함께 성장하는 것이 더 빠르다고 믿습니다</p>
 
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
